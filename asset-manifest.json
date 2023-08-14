@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fmentor-three-column-preview-challenge/static/css/main.b11101a7.css",
+    "main.js": "/fmentor-three-column-preview-challenge/static/js/main.9e2fbb84.js",
+    "static/media/icon-luxury.svg": "/fmentor-three-column-preview-challenge/static/media/icon-luxury.7d6e1aefdc39c4742fbb039e7f97a503.svg",
+    "static/media/icon-suvs.svg": "/fmentor-three-column-preview-challenge/static/media/icon-suvs.058b664c311101933ebda84111ddd9b6.svg",
+    "static/media/icon-sedans.svg": "/fmentor-three-column-preview-challenge/static/media/icon-sedans.e794502801c486bcffc3513f6f03141e.svg",
+    "index.html": "/fmentor-three-column-preview-challenge/index.html",
+    "main.b11101a7.css.map": "/fmentor-three-column-preview-challenge/static/css/main.b11101a7.css.map",
+    "main.9e2fbb84.js.map": "/fmentor-three-column-preview-challenge/static/js/main.9e2fbb84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b11101a7.css",
+    "static/js/main.9e2fbb84.js"
+  ]
+}
